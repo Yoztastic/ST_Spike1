@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>StorageSpike.Host.Contracts</AssemblyName>
+        <RootNamespace>StorageSpike.Host.Contracts</RootNamespace>
+    </PropertyGroup>
+
+
+</Project>

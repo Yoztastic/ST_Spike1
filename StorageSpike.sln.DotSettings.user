@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\yoz\.dotnet\packs\Microsoft.AspNetCore.App.Ref\7.0.9\ref\net7.0\Microsoft.AspNetCore.Http.Features.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\yoz\.nuget\packages\microsoft.featuremanagement.aspnetcore\2.6.1\lib\net6.0\Microsoft.FeatureManagement.AspNetCore.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\yoz\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.1\lib\net7.0\Microsoft.Extensions.Logging.Abstractions.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c0e49f9_002D3daa_002D483f_002Da9ef_002Dc8fa28d185f0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\yoz\RiderProjects\StorageSpike" Presentation="&amp;lt;test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
